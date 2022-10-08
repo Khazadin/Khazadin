@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Khazadin
-- 👀 I’m interested in Web developing.    
-- 🌱 I’m currently learning JS.
-- 💞️ I’m looking to collaborate on new little projects
+- 👋 human, frontend dev
+- rock lee is best naruto character.
+- love nature.
 - 📫 How to reach me dervismehmetusta35@gmail.com
 
 <!---
