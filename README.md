@@ -4,7 +4,6 @@
 - for twitter : https://twitter.com/khazadin
 - Under Development Personel Projects
 - 1)Turkish History Documentation (Release Date: 2 April 2023)
-- 2)Damla Halı Yıkama İşletme Sitesi (Release Date: 28 March 2023)
 - 3)MeApp (Release Date: 25 April 2023)
 
 <!---
