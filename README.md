@@ -1,5 +1,5 @@
 - 👋 human, frontend dev.
-- 90% HTML 75% CSS 60% JS & Learning React.js!
+- 90% HTML 80% CSS 80% JS & Learning React.js!
 - 📫 How to reach me dervismehmetusta35@gmail.com
 <!---
 Khazadin/Khazadin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
