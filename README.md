@@ -1,4 +1,4 @@
-- 👋 human, frontend dev.
+-just a dev.
   HTML CSS JS React.js
 - 📫 How to reach me dervismehmetusta35@gmail.com
 <!---
